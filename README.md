@@ -1,3 +1,4 @@
+![logo](https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif)
 <h1 align="center">Hi 👋, I'm Yunesh Dangol</h1>
 <h3 align="center">"A passionate frontend developer from Nepal"</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
