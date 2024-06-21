@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hello 👋, I'm Yunesh Dangol</h1>
-<h3 align="center">"Eat</br>Sleep</br>Code</br>Repate"</h3>
+<h3 align="center">Eat</br>Sleep</br>Code</br>Repeat</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuneshdangol99&label=Profile%20views&color=0e75b6&style=flat" alt="yuneshdangol99" /> </p>
